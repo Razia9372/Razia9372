@@ -57,28 +57,57 @@ My academic work spans numerical simulation, communication protocols, signal pro
 
 ### `04` · SELECTED PROJECTS
 
-#### WIRELESS · NETWORKS · EMBEDDED
+### Wireless · Networks · Embedded
 
-| Project | Scope |
-|:--|:--|
-| **[Wireless Vehicle Localization](https://github.com/Razia9372/wireless-vehicle-localization)** | MATLAB-based localization simulations, performance evaluation, and technical documentation. |
-| **[IoT Networking & Embedded Systems](https://github.com/Razia9372/iot-networking-and-embedded-systems)** | ESP32 simulations, MQTT/CoAP analysis, energy evaluation, and Node-RED workflows. |
-| **[Network Computing — dcSim](https://github.com/Ang3lin0/Network-Computing-dcSim)** | Collaborative simulation work, result visualization, analysis, and technical reporting. |
+**[Wireless Vehicle Localization ↗](https://github.com/Razia9372/wireless-vehicle-localization)**
 
-#### PHOTONICS · HARDWARE
+Localization and tracking using ToA/AoA measurements, nonlinear least squares, and Extended Kalman Filtering in a simulated highway tunnel scenario.
 
-| Project | Scope |
-|:--|:--|
-| **[Free-Space Optical Audio Communication](https://github.com/Razia9372/Optical-communication)** | Bachelor's thesis: laser-based analog audio link, PCB design, and photodiode receiver. |
-| **[Silicon Photonics & Microring Photodetectors](https://github.com/Razia9372/silicon-photonics-microring-photodetectors)** | MATLAB modeling of resonator transmission, optical enhancement, and photodetector response. |
+`MATLAB` · `Wireless Localization` · `EKF`
 
-#### COMPUTATIONAL METHODS · SIGNAL PROCESSING
+**[IoT Networking & Embedded Systems ↗](https://github.com/Razia9372/iot-networking-and-embedded-systems)**
 
-| Project | Scope |
-|:--|:--|
-| **[Computational Statistics & Uncertainty Quantification](https://github.com/Razia9372/computational-statistics-and-uncertainty-quantification)** | Monte Carlo simulations and uncertainty analysis for scientific models. |
-| **[Signal and Image Processing](https://github.com/Razia9372/Signal-and-Image-processing)** | Python exercises in dictionary learning, sparse reconstruction, and color space transformations. |
+Networking exercises and simulations covering ESP32, MQTT/CoAP, ZigBee, low-power wireless systems, and Node-RED workflows.
 
+`ESP32` · `MQTT` · `CoAP` · `Node-RED`
+
+**[Network Computing — dcSim ↗](https://github.com/Ang3lin0/Network-Computing-dcSim)**
+
+Collaborative network-computing project involving simulation, result visualization, performance analysis, and technical reporting.
+
+`Network Computing` · `Simulation` · `Data Analysis`
+
+---
+
+### Photonics · Hardware
+
+**[Free-Space Optical Audio Communication ↗](https://github.com/Razia9372/Optical-communication)**
+
+Bachelor's thesis project developing a short-range laser-based analog audio communication link, including PCB design, photodiode reception, and hardware prototyping.
+
+`Optical Communication` · `PCB Design` · `Hardware`
+
+**[Silicon Photonics & Microring Photodetectors ↗](https://github.com/Razia9372/silicon-photonics-microring-photodetectors)**
+
+Numerical modeling of silicon microring resonators and graphene/germanium photodetectors, examining transmission, resonant enhancement, and detector response.
+
+`MATLAB` · `Silicon Photonics` · `Numerical Modeling`
+
+---
+
+### Computational Methods · Signal Processing
+
+**[Computational Statistics & Uncertainty Quantification ↗](https://github.com/Razia9372/computational-statistics-and-uncertainty-quantification)**
+
+Monte Carlo simulations, variance reduction, surrogate modeling, and uncertainty analysis for scientific models.
+
+`Python` · `Monte Carlo` · `Numerical Simulation`
+
+**[Signal & Image Processing ↗](https://github.com/Razia9372/Signal-and-Image-processing)**
+
+Python experiments in sparse dictionary learning, image reconstruction, color-space transformations, and image inversion.
+
+`Python` · `Image Processing` · `Sparse Coding`
 ---
 
 ### `05` · RESEARCH DIRECTIONS
