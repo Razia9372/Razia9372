@@ -108,6 +108,7 @@ Monte Carlo simulations, variance reduction, surrogate modeling, and uncertainty
 Python experiments in sparse dictionary learning, image reconstruction, color-space transformations, and image inversion.
 
 `Python` · `Image Processing` · `Sparse Coding`
+
 ---
 
 ### `05` · RESEARCH DIRECTIONS
