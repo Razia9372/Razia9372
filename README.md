@@ -19,11 +19,25 @@ My academic work spans numerical simulation, communication protocols, signal pro
 
 ### `02` · TECHNICAL FOCUS
 
-**Communication & networks** · Wireless localization · TCP/IP · MQTT · CoAP · IoT  
-**Programming & modeling** · Python · MATLAB · Numerical simulation · Jupyter  
-**Embedded & tools** · ESP32 · Node-RED · Linux · Git · GitHub  
-**Additional areas** · Signal processing · Silicon photonics · Optical communication
+**Wireless & Networking**
 
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-123247?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-123247?style=flat-square)
+![CoAP](https://img.shields.io/badge/CoAP-123247?style=flat-square)
+![Wireless](https://img.shields.io/badge/Wireless_Localization-123247?style=flat-square)
+
+**Programming & Simulation**
+
+![Python](https://img.shields.io/badge/Python-0E7490?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0E7490?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-0E7490?style=flat-square&logo=jupyter&logoColor=white)
+
+**Embedded Systems & Tools**
+
+![ESP32](https://img.shields.io/badge/ESP32-123247?style=flat-square)
+![Node-RED](https://img.shields.io/badge/Node--RED-123247?style=flat-square&logo=nodered&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-123247?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-123247?style=flat-square&logo=git&logoColor=white)
 ---
 
 ### `03` · GITHUB ACTIVITY
